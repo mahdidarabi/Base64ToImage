@@ -6,4 +6,4 @@ First add your base64 data to **data.js** file like example then run
 npm start
 ```
 
-you can find the outputs in out **dir**
+you can find the outputs in **out** dir
