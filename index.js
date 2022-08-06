@@ -1,4 +1,4 @@
-data = require("./data.js");
+data = require("./data/data.js");
 var fs = require("fs");
 
 const makeOutDir = (outDirPath = "./out/") => {
